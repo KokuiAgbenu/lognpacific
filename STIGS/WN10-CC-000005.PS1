@@ -5,7 +5,7 @@
 
 .NOTES
     Author          : Kokui Agbenu
-    LinkedIn        : linkedin.com/in/okuiagbenu/
+    LinkedIn        : linkedin.com/in/kokuiagbenu/
     GitHub          : github.com/kokuiagbenu
     Date Created    : 06-10-2025
     Last Modified   : 06-10-26
