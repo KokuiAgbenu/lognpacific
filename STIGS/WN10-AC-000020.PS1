@@ -2,7 +2,8 @@
 .SYNOPSIS
     # Configures local password policy to remember the last 24 passwords (Enforce password history)
 
-
+.STIG RATIONALE
+    # Prevents users from cycling back to old passwords, reducing the risk of reuse and weak password practices.
 .NOTES
     Author          : Kokui Agbenu
     LinkedIn        : linkedin.com/in/kokuiagbenu/
