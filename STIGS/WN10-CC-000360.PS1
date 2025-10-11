@@ -3,7 +3,7 @@
     # Disabling Digest authentication ensures WinRM clients don’t use weak, challenge-response–based authentication, which is vulnerable to replay and brute force attacks.
 
 .HOW?
-    # # Sets AllowDigest=0 under HKLM\SOFTWARE\Policies\Microsoft\Windows\WinRM\Client to disable Digest authentication per STIG (prevents weaker authentication mechanisms)
+    # Sets AllowDigest=0 under HKLM\SOFTWARE\Policies\Microsoft\Windows\WinRM\Client to disable Digest authentication per STIG (prevents weaker authentication mechanisms)
 
 .STIG RATIONALE
     # Enforcing stronger authentication (such as Kerberos) improves security and aligns with DoD security requirements.
